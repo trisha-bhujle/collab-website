@@ -1,7 +1,7 @@
 ---
-title: "collab-website"
+title: "Trisha and Hannah"
 ---
 
-This is a Quarto website.
+This is our website. We like birds!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![](https://images.unsplash.com/photo-1486365227551-f3f90034a57c?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YmlyZHxlbnwwfHwwfHx8MA%3D%3D)
