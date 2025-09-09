@@ -3,12 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "collab-website"
+  title: "NTRES 6100"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Resources.qmd
 
 format:
   html:

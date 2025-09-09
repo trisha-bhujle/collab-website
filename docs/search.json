@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "Resources.html",
+    "href": "Resources.html",
+    "title": "Resources",
     "section": "",
-    "text": "About this site"
+    "text": "Here are some links."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Trisha and Hannah",
     "section": "",
-    "text": "This is our website. We like birds!"
+    "text": "This is our website. We like birds!\n\nWe also like this class and learning to build a website"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]
